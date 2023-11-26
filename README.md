@@ -1,7 +1,17 @@
 <div align="center">
    <h1>Hi there, I'm <a href="">Raj</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-<br />
+<p align=center>
+  <a href="https://github.com/Terabyte17">
+    <img src="https://badges.pufler.dev/visits/Raj/rajshekhar5?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/rajshekhar5?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/rajshekhar5?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/rajshekhar5"><img src="https://img.shields.io/github/followers/rajshekhar5?style=social"></a>
+</p>
 
 <div align="center">
   <h3> Raj Shekhar | 💻 Full Stack Developer | Competitive Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | India </h3>
@@ -18,7 +28,7 @@
 <br />
 
 <p align="center">
-   <img align="right" height="240px" width="450px" alt="GIF" src="https://standuply.com/blog/wp-content/uploads/2019/04/1.gif"/>
+   <img align="right" height="270px" width="450px" alt="GIF" src="https://standuply.com/blog/wp-content/uploads/2019/04/1.gif"/>
 
   <h3> I'm 21 years old Full-Stack developer from India.</h3>
 </p>
@@ -30,6 +40,8 @@
  <!--- 🔭 SpaceX FanBoi, die for space😼
 
  - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.-->
+
+ - When I'm not developing and coding, you can find me Gym.
  
  - I do fullstack and a bit of everything :heart:
  
