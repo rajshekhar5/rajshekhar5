@@ -1,15 +1,14 @@
 <div align="center">
    <h1>Hi there, I'm <a href="">Raj</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
+<br />
 
 <div align="center">
-  <h3> Raj Shekhar | 💻 Full Stack Developer | Competitive Programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | India </h3>
+  <h3> Raj Shekhar | 💻 Full Stack Developer | Competitive Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | India </h3>
 </div>
 
-<p align="center"><!--
-   <a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
-   <br>  <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> 
-   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>-->
+<p align="center">
+   
  </p>
  
  <h5 align="center">
@@ -18,8 +17,9 @@
  
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="[https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif](https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966)" />
 <p align="center">
+   <img align="right" height="240px" width="450px" alt="GIF" src="https://standuply.com/blog/wp-content/uploads/2019/04/1.gif"/>
+
   <h3> I'm 21 years old Full-Stack developer from India.</h3>
 </p>
 
@@ -93,7 +93,7 @@
 <h3 align="left">Connect with me:</h3>
 
   <p align="center">
-  <a href="[https://www.linkedin.org/](https://linkedin.com/in/raj-shekhar-4a9214227)" target="_blank">
+  <a href="https://linkedin.com/in/raj-shekhar-4a9214227" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%2314354C.svg?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin">
     
   <a href="https://mail.google.com/rajshekhar2may2002@gmail.com" target="_blank">
@@ -117,7 +117,7 @@
     <img src="https://img.shields.io/badge/codechef-%23F7DF1E.svg?style=flat-square&logo=codechef&logoColor=black" alt="codechef">
   </a>
   
-  <a href="https://codeforces.com/raj_shekhar_" target="_blank">
+  <a href="https://codeforces.com/profile/raj_shekhar_" target="_blank">
     <img src="https://img.shields.io/badge/codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white" alt="codeforces">
   </a>
 
