@@ -41,13 +41,13 @@
 
  - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.-->
 
- - When I'm not developing and coding, you can find me Gym.
+ - When I'm not developing and coding, you can find me in Gym.
  
  - I do fullstack and a bit of everything :heart:
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/raj-shekhar-4a9214227/)
+ - 💬 Connect? lets get social 👉🏼[ <img src="https://img.shields.io/badge/linkedin-%2314354C.svg?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin">](https://www.linkedin.com/in/rajshekhar5/)
 <br />
 
  
@@ -58,7 +58,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajshekhar5&show_icons=true&theme=gotham" alt="Raj Shekhar" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshekhar5&layout=compact&theme=gotham&hide_border=true"/></p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajshekhar5&theme=gotham&" alt="Gift's LangStat" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshekhar5&label=Profile%20views&color=0e75b6&style=flat" alt="rajshekhar5" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
