@@ -104,7 +104,7 @@
 <h3 align="left">Connect with me:</h3>
 
   <p align="center">
-  <a href="https://linkedin.com/in/raj-shekhar-4a9214227" target="_blank">
+  <a href="https://linkedin.com/in/rajshekhar5" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%2314354C.svg?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin">
     
   <a href="https://mail.google.com/rajshekhar2may2002@gmail.com" target="_blank">
