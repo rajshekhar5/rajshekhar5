@@ -33,7 +33,7 @@
   <h3> I'm 21 years old Full-Stack developer from India.</h3>
 </p>
 
- - 🥀 Learning DSA & React
+ -  <!--- 🥀 --> Learning DSA & React
  
  - <i>with Javascript , React , Flutter and 69 others.</i>
    
